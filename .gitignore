@@ -12,6 +12,8 @@ target/
 !**/src/main/**
 !**/src/test/**
 
+pom.xml.versionsBackup
+
 ### Eclipse template
 .metadata
 .classpath
